@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "アポカリプスなう",
+  "base_artist": "PinocchioP",
+  "createdAt": "2026-02-09T12:20:12.822419Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アポカリプスなう",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_01_アポカリプスなう_ピノキオピー.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "アポカリプスなう",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_02_アポカリプスなう_ピノキオピー.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "アポカリプスなう",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_03_アポカリプスなう_ピノキオピー.txt"
+    }
+  ]
+}
